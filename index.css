@@ -1,0 +1,40 @@
+.wow {
+  background-color: rgb(0, 0, 0);
+  padding: 8px;
+}
+.nB {
+  background-color: rgb(44, 44, 44);
+  padding: 9px;
+  display: flex;
+  /* justify-content: ; */
+  gap: 30px;
+  align-items: center;
+}
+.nb2 {
+  background-color: rgb(44, 44, 44);
+  padding: 9px;
+  display: flex;
+  justify-content: right;
+  gap: 30px;
+  align-items: center;
+}
+.nblink {
+  color: rgb(238, 202, 0);
+}
+.p {
+  color: orange;
+}
+.g {
+  display: flex;
+  align-content: center;
+}
+.img1 {
+  border-radius: 50%;
+  size: 50px;
+}
+.nbmain {
+  background-color: rgb(44, 44, 44);
+  padding: 9px;
+  display: flex;
+  justify-content: space-between;
+}
